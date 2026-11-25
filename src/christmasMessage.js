@@ -1,6 +1,6 @@
 // Edit the recipient name and personalized Christmas message in this one file.
 
-export const RECIPIENT_NAME = 'Natalie';
+export const RECIPIENT_NAME = 'LYAA🥰';
 
 export const FIRST_SCREEN_COPY = {
   heading: `Merry Christmas, ${RECIPIENT_NAME} 🎄`,
